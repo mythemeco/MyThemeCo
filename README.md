@@ -1,0 +1,2 @@
+# MyThemeCo
+Theme for Wordpress
